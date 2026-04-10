@@ -1,0 +1,7 @@
+projects:
+  - name: &inject "test\ninjection"
+    description: *inject
+    configs:
+      dev:
+        secrets:
+          KEY: value

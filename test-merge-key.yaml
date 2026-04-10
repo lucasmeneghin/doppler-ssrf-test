@@ -1,0 +1,6 @@
+defaults: &defaults
+  admin: true
+  role: superuser
+user:
+  <<: *defaults
+  name: attacker

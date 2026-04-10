@@ -1,0 +1,7 @@
+projects:
+  - name: ssrf-test-project
+    description: test project for template import
+    configs:
+      dev:
+        secrets:
+          TEST_KEY: test_value
