@@ -1,0 +1,3 @@
+projects:
+  - name: ssrf-test
+    description: "Testing template import"

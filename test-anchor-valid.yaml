@@ -1,0 +1,3 @@
+projects:
+  - name: &name_ref test-anchor-project
+    description: *name_ref
