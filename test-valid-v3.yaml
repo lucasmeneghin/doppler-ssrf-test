@@ -1,0 +1,6 @@
+projects:
+  - name: ssrf-test
+    description: "Testing template import"
+    environments:
+      - name: dev
+        slug: dev
